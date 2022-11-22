@@ -1,3 +1,5 @@
+# coding: iso-8859-1 -*-
+
 # Importamos las librerías de OpenCV y Numpy
 import cv2
 import numpy as np
